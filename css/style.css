@@ -1,0 +1,39 @@
+.header-area, .hero-area, .body-area, .bar-area, .footer-area{
+  background-color: pink;
+}
+.header-area p, .hero-area p, .body-area p, .bar-area p, .footer-area p{
+  margin-left: 15px;
+}
+
+.box{
+  background-color: #ddd;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+
+.hero-area, .body-area, .bar-area, .footer-area{
+  margin-top: 25px;
+}
+
+.blue{
+  background-color: #007bff;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.red{
+  background-color: red;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.purple{
+  background-color: #6f42c1;
+  color: #fff;
+  border: 2px solid #fff;
+}
